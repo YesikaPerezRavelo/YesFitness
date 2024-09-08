@@ -8,7 +8,7 @@
 
 ---
 
-**Create de database**
+**Create database**
 
 Create tables, edited them and adding information in each table.
 Updating info and deleting rows and data if neccesary.
